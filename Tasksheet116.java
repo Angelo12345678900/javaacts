@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PalindromeChecker {
+public class Tasksheet116 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String input = scanner.nextLine();
